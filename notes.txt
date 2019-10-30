@@ -1,0 +1,7 @@
+                                  Apache JMeter
+
+								  
+								  
+tips for stress and load test
+increase amount of memory
+run from cmd line
