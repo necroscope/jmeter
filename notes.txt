@@ -5,3 +5,13 @@
 tips for stress and load test
 increase amount of memory
 run from cmd line
+
+
+use a regex expression finder on pre post processors
+
+
+https://regex101.com
+
+https://www.blazemeter.com/blog/ultimate-jmeter-resource-list
+
+http://sqa.stackexchange.com/questions/2546/where-can-i-find-good-jmeter-tutorials
